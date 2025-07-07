@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Aryan Srivastava
 
-<!--
-**aryanandroiddev/aryanandroiddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Android Developer | Kotlin | Jetpack | MVVM  
+💻 Freelancer helping apps go from idea → release  
+🌱 Building reusable Android templates for the dev community  
+📫 Reach me: devapparyan@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack:
+- 💻 Kotlin, Java
+- 📱 Jetpack, Room, Retrofit, WorkManager, Compose
+- 🧩 MVVM, Clean Architecture
+- 🌐 Firebase, REST APIs, Git
+
+---
+
+### 🧰 Featured Projects:
+- **MVVM Starter Template** – Retrofit + Room + ViewModel  
+- **Offline News Reader App** – WorkManager + Room DB  
+- **Compose Notes App** – Clean UI using Jetpack Compose  
+
+> 🧩 Freelance Gigs → [fiverr.com/....](#)  
+> ☕ Support My Work → [ko-fi.com/....](#)
