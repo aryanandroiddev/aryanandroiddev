@@ -20,5 +20,5 @@
 - **Offline News Reader App** – WorkManager + Room DB  
 - **Compose Notes App** – Clean UI using Jetpack Compose  
 
-> 🧩 Freelance Gigs → [fiverr.com/....](#)  
-> ☕ Support My Work → [ko-fi.com/....](#)
+> 🧩 Freelance Gigs → https://www.fiverr.com/s/m52NEKR (#)  
+> ☕ Support My Work → ko-fi.com/aryanandroiddev (#)
