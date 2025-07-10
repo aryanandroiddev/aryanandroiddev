@@ -21,4 +21,4 @@
 - **Compose Notes App** – Clean UI using Jetpack Compose  
 
 > 🧩 Freelance Gigs → https://www.fiverr.com/s/m52NEKR (#)  
-> ☕ Support My Work → ko-fi.com/aryanandroiddev (#)
+> ☕ Support My Work → https://ko-fi.com/aryanandroiddev (#)
